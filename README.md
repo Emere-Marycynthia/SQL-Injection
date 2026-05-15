@@ -1,8 +1,6 @@
 # SQL Injection Lab Overview
 This lab highlights the security risks associated with improper input validation and weak database security controls. It demonstrates how attackers can exploit SQL injection vulnerabilities to gain unauthorized access to sensitive information from insecure web applications.
 
-# SQL Injection Lab
-
 ## Objective
 The objective of this lab is to demonstrate SQL injection testing and database enumeration using SQLMap against the intentionally vulnerable Damn Vulnerable Web Application (DVWA). The lab aims to provide an understanding of how SQL injection vulnerabilities can be exploited to enumerate databases, extract schema information, and retrieve sensitive data from insecure web applications.
 
